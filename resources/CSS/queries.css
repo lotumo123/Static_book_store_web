@@ -17,16 +17,16 @@
         margin-top: 80px;
     }
 
+    footer{
+        height: 40vh;    
+    }
     .in-footer ul{
-       display: flex;
-       flex-direction: column;
-       float: right;
-       margin-bottom: 0;
-       margin-top: -60px;
+        display: block;
     }
 
     .in-footer ul li{
         padding-bottom: 5px;
+        margin-bottom: 60px;
         font-size: 100%;
     }
 
