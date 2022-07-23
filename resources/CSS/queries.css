@@ -1,0 +1,71 @@
+@media only screen and (max-width:960px){
+    .nav-bar ul li{
+        display: block;
+        padding-bottom: 10px;
+        font-size: 100%;
+    }
+
+    .nav-bar ul{
+        margin-bottom: 60px;
+    }
+
+    .category-header h1 {
+        font-size: 150%;
+    }
+
+    .logo{
+        margin-top: 80px;
+    }
+
+    .in-footer ul{
+       display: flex;
+       flex-direction: column;
+       padding-top: 40px;
+       float: right;
+       margin-bottom: 0;
+    }
+
+    .in-footer ul li{
+        padding-bottom: 10px;
+        font-size: 100%;
+    }
+
+    .main-img h1{
+        font-size: 150%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .main-img {
+        text-align: center;
+    }
+
+    .Book-img{
+        display: block;
+        margin: 0 auto;
+        margin-top: 30px;
+        
+    }
+
+    .sub-pictures{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .price-cart{
+        text-align: center;
+    }
+
+    .cart{
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .col-25, .col-75 {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    form{
+        padding-left: 10px;
+    }
+
+}
