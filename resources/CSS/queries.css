@@ -20,13 +20,13 @@
     .in-footer ul{
        display: flex;
        flex-direction: column;
-       padding-top: 40px;
        float: right;
        margin-bottom: 0;
+       margin-top: -60px;
     }
 
     .in-footer ul li{
-        padding-bottom: 10px;
+        padding-bottom: 5px;
         font-size: 100%;
     }
 
